@@ -1,0 +1,14 @@
+.resume-footer {
+    background-color: white;
+}
+
+.navbar-container {
+    position: fixed;
+    top: 0;
+    display: stretch;
+    width: 75%;
+    float: left;
+	margin: 0 0 0 0;
+	padding-bottom: 10%;
+    padding-right: 25px;
+}
